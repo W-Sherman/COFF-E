@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt 
+import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go 
 from  plotly.subplots import make_subplots
@@ -13,6 +14,7 @@ data = pd.read_csv('/Users/will/Desktop/EDUCATION/SSDL/2_Research/TopOpt/FF_Data
 useSats = data.loc[data[['# sats','Type']].notnull().all(axis=1)]
 names = useSats['System']
 nums = useSats['# sats']
+lognums = np.log(nums)
 field = useSats['Field']
 archType = useSats['Type']
 ForC = useSats['Sub-Class']
@@ -49,7 +51,7 @@ fig1 = px.scatter(useSats,
                     y='Type',
                     labels = {'Type':'Architecture Type', 'Field':''},
                     color='Sub-Class',
-                    size = '# sats',
+                    size = lognums,
                     opacity = 0.55,
                     title= 'Multi-Vehicle Mission Architectur Map')
 
