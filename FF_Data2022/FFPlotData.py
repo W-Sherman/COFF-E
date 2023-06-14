@@ -8,7 +8,7 @@ import seaborn as sns
 import seaborn.objects as so
 
 
-data = pd.read_csv('FF_MasterData_Subset.csv')
+data = pd.read_csv('/Users/will/Desktop/EDUCATION/SSDL/2_Research/TopOpt/FF_Data2022/FF_MasterData_Subset_V1.2.csv')
 
 useSats = data.loc[data[['# sats','Type']].notnull().all(axis=1)]
 names = useSats['System']
@@ -61,13 +61,12 @@ fig2 = px.bar(useSats,x='Field',
                 log_y = True,
                 hover_name=names)
 
-figMAIN.append_trace(fig1,row=1,col=1)
+#figMAIN.append_trace(fig1,row=1,col=1)
 
-figMAIN.show()
+fig.show()
+fig1.show()
+fig2.show()
 
-#fig.show()
-#fig1.show()
-#fig2.show()
 #sns.displot(data = useSats, x='# sats', col='Sub-Class', log_scale=True)
 
 """
