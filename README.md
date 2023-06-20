@@ -1,4 +1,4 @@
-# TopOpt
+# COFF-E : Cislunar Optimization of Formation Flight Experiment
 Satellite formation flight mission topology optimization study. Optimize satellite formations for desired mission traits.
 
 Main source of data comes from the folloiwg online sources
