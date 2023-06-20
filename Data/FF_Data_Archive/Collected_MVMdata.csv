@@ -1,0 +1,200 @@
+,Mission,Organisation,Num Sats,Size/Mass,Homogenaity,Sub-Class,Launch,Status,Ref Index
+0,TUBSAT,Technische Universität Berlin,2,8.5 kg,different,idk,1998-07-07,"Reentered, Was operational",0
+1,Artemis,Santa Clara University,2,0.895 kg,different,idk,2000-01-27,No signal,3
+2,MEMS,DARPA,4,0.275 kg,different,formation,2000-01-27,"Reentered, Was operational",6
+3,MEPSI,DARPA,8,0.8 kg,different,idk,2002-11-23,"Reentered, Was semi-operational",13
+4,ICECube,Cornell University,2,1U,identical,idk,2006-07-26,Launch failure,31
+5,STARS,Kagawa University,13,3.8 kg,different,idk,2009-01-23,"Reentered, Was operational",69
+6,ZDPS,Zhejiang University,2,3.5 kg,identical,idk,2010-09-22,Was operational,87
+7,Perseus,Los Alamos National Laboratory,14,1.5U,different,idk,2010-12-08,"Reentered, Operational",93
+8,QbX,US Naval Research Laboratory,2,3U,different,idk,2010-12-08,"Reentered, Operational",97
+9,DICE,Utah State University,2,1.5U,identical,formation,2011-10-28,Was operational,107
+10,AeroCube,The Aerospace Corporation,20,1U,different,formation,2012-09-13,"Was operational, ?",128
+11,SMDC,US Army Space and Missile Defense Command,7,3U,different,idk,2012-09-13,Was operational,135
+12,PhoneSat,NASA Ames Research Center,3,1U,identical,idk,2013-04-21,"Reentered, Operational",147
+13,ArduSat,Spire,2,1U,different,idk,2013-08-03,"Reentered, Operational",154
+14,ORS,John Hopkins University,2,3U,identical,idk,2013-11-20,"Reentered, Operational",169
+15,Prometheus,USSOCOM (US Special Operations Command),20,1.5U,different,idk,2013-11-20,"Reentered, Operational",173
+16,SENSE,US Air Force Space Command,2,3U,different,idk,2013-11-20,"Reentered, Was operational",181
+17,CINEMA,Kyung Hee University,2,3U,different,idk,2013-11-21,Was semi-operational,189
+18,Dove,Planet Labs,2,3U,identical,idk,2013-11-21,"Operational, Retired",193
+19,FIREBIRD,Montana State University/ University of New Hampshire,4,1.5U,different,idk,2013-12-06,Was operational,217
+20,Flock,Planet Labs,515,3U,different,idk,2014-01-09,"Reentered, Operational",226
+21,BRITE,Canadian Space Agency (CSA),2,10 kg,different,constellation,2014-06-19,Operational,274
+22,QB50P1,Von Karman Institute,2,2U,different,idk,2014-06-19,"Was operational, Semi-operational",296
+23,CanX,Space Flight Laboratory,2,7 kg,different,formation,2014-06-30,Operational,299
+24,OptiCube,California Polytechnic State University,3,3U,different,idk,2015-05-20,Passive,395
+25,Dust,National University of Defense Technology (NUDT),4,30 g,different,idk,2015-09-19,Operational,428
+26,XW,CAMSAT (Chinese Amateur Satellite Group),5,10 kg,different,idk,2015-09-19,Operational,435
+27,TW,Shanghai Engineering Centre for Microsatellites,2,2U,different,idk,2015-09-25,"Reentered, Was operational",442
+28,Lemur,Spire,133,3U,different,idk,2015-09-28,"Operational, ?",445
+29,PropCube,Naval Postgraduate School (NPS),2,1U,identical,idk,2015-10-08,Operational,455
+30,SINOD,SRI International,2,2U,identical,idk,2015-10-08,"Unknown, Likely operational",457
+31,SNaP,US Army Space and Missile Defense Command,3,3U,different,idk,2015-10-08,Was operational,459
+32,EDSN,NASA Ames Research Center,8,1.5U,identical,idk,2015-11-04,Launch failure,463
+33,Nodes,NASA Ames Research Center,2,1.5U,identical,idk,2015-12-06,"Reentered, Was operational",489
+34,INS,ISRO,2,8.4 kg,identical,idk,2017-02-15,Unknown,676
+35,BIRD,Kyushu Institute of Technology,3,1U,identical,idk,2017-06-03,"Reentered, No signal",728
+36,Tanyusha,Southwestern State University,4,3U,different,idk,2017-06-14,"Reentered, Was operational",732
+37,Diamond,Sky and Space Global,11,3U,different,idk,2017-06-23,Operational,738
+38,CICERO,GeoOptics,4,6U,different,idk,2017-07-14,Was operational,764
+39,Landmapper,Astro Digital,25,6U,different,constellation,2017-07-14,No signal,816
+40,MKA,Dauria Aerospace,2,6U,identical,idk,2017-07-14,No signal,827
+41,X37B,DARPA,3,3U,identical,idk,2017-09-07,Unknown,836
+42,Aerocube,The Aerospace Corporation,2,1.5U,different,idk,2017-11-12,Operational,843
+43,CANYVAL,Yonsei University,3,1U,different,idk,2018-01-12,No signal,880
+44,SpaceBEE,Swarm Technologies,178,0.25U,different,constellation,2018-01-12,Operational,899
+45,S,Technische Universität Berlin,4,8 kg,identical,idk,2018-02-01,Operational,918
+46,DebrisSat,SSTL,2,2U,different,idk,2018-04-02,"Was operational, Reentered",930
+47,MarCO,NASA,2,6U,different,idk,2018-05-05,Was operational,935
+48,Biarri,US Air Force Space Command,3,3U,identical,idk,2018-06-29,"On ISS, Unknown, ?",954
+49,SiriusSat,Sirius Educational Centre,2,1U,identical,idk,2018-07-09,"Reentered, Operational",959
+50,ELFIN,University of California,2,3U,different,idk,2018-09-15,Operational,962
+51,Proxima,Fleet Space,2,1.5U,different,idk,2018-11-11,Operational,981
+52,Polar,US Coast Guard,2,6U,different,idk,2018-12-03,Operational,1044
+53,RANGE,Georgia Tech,2,1.5U,identical,idk,2018-12-03,Unknown,1048
+54,SPAWAR,"US Navy PEO Space Systems (NAVWAR, SPAWAR)",3,1U,different,idk,2018-12-03,Passive,1056
+55,CAT,Johns Hopkins Applied Physics Laboratory,2,3U,different,idk,2018-12-05,"Reentered, Operational",1064
+56,Quantum,SEOPS,2,3U,different,idk,2018-12-05,Passive,1067
+57,Ladybird,Commsat,5,6U,identical,constellation,2018-12-07,Operational,1071
+58,CubeSail,University of Illinois,2,1.5U,identical,idk,2018-12-16,Was semi-operational,1087
+59,D,German Orbital Systems,3,3U,identical,idk,2018-12-27,Operational,1095
+60,SAMSON,?,6,6U,different,idk,2018-12-27,Passive,1118
+61,ThinSat,Virginia Space,21,ThinSat D+4T,different,idk,2019-04-17,"Reentered, Operational, ?",1168
+62,E,University of Michigan,2,3U,identical,idk,2019-06-25,"Reentered, Operational",1191
+63,TEPCE,US Naval Research Laboratory,2,1.5U,identical,idk,2019-06-25,"Reentered, Operational",1199
+64,BEESAT,Berlin Technical University,10,0.25U,different,idk,2019-07-05,Operational,1209
+65,Pearl,US Air Force Space Command,2,6U,identical,idk,2019-08-18,Operational,1244
+66,NOOR,Stara Space,2,PocketQube 3p,identical,constellation,2019-12-06,"Reentered, No signal",1290
+67,Tianqi,Guodian Gaoke,2,6U,different,constellation,2019-12-07,Unknown,1294
+68,Tianyi,Spacety,2,6U,identical,idk,2019-12-07,Operational,1296
+69,ANDESITE,Boston University,8,0.38 kg,different,idk,2020-06-13,"On spacecraft, ?",1319
+70,FSSCat,Universitat Politècnica de Catalunya,2,6U,identical,idk,2020-09-02,Operational,1368
+71,Kepler,Kepler Communications,19,6U,different,constellation,2020-09-28,Operational,1399
+72,NetSat,Zentrum für Telematik,4,3U,identical,formation,2020-09-28,Operational,1407
+73,Yarilo,Bauman Moscow State Technical University,2,1.5U,identical,idk,2020-09-28,Operational,1412
+74,Descent,York University,2,1U,identical,idk,2020-10-03,"Reentered, No signal",1415
+75,KSM1,Kleos Space,4,6U,identical,constellation,2020-11-07,Operational,1432
+76,BRO,UnSeenLabs,2,6U,identical,idk,2020-11-20,"Operational, ?",1442
+77,Dragracer,TriSept,2,6U (1/2 12U XL),identical,idk,2020-11-20,"Reentered, Operational",1444
+78,PICS,Brigham Young University,2,1U,identical,idk,2021-01-17,No signal,1478
+79,ARCE,University of South Florida,3,0.5U,different,idk,2021-01-24,Operational,1487
+80,Astrocast,Astrocast,30,3U,different,idk,2021-01-24,Operational,1491
+81,V,Carnegie Mellon,3,1U,different,formation,2021-01-24,Was operational,1603
+82,CubeSX,Moscow Institute of Electronics and Mathematics,2,3U,different,idk,2021-03-22,Operational,1659
+83,RAAF,University of New South Wales (UNSW Canberra),2,6U (1/2 12U),identical,idk,2021-03-22,Operational,1673
+84,TDO,US Air Force Research Laboratory,2,12U,identical,idk,2021-05-18,"Unknown, Passive, ?",1687
+85,CNCE1,Missile Defense Agency,2,3U,different,idk,2021-06-30,Operational,1701
+86,KSF1,Kleos Space,4,6U,different,constellation,2021-06-30,Operational,1708
+87,LINCS1,Space Development Agency,2,12U,identical,idk,2021-06-30,"No signal, ?",1718
+88,STORK,SatRevolution,13,3U,different,idk,2021-06-30,Operational,1754
+89,GENESIS,AMSAT EA (Spain),4,PocketQube 1p,different,idk,2021-09-02,Launch failure,1774
+90,Qubik,Libre Space,2,PocketQube 1p,different,idk,2021-09-02,Launch failure,1777
+91,Cesium,CesiumAstro,2,6U,different,idk,2021-09-27,Operational,1780
+92,FossaSat,Fossa Systems,14,PocketQube 1p,different,idk,2022-01-13,"Operational, ?",1852
+93,MDASat,Cape Peninsula University of Technology,3,2U,identical,idk,2022-01-13,Operational,1874
+94,PAN,Cornell University,2,3U,identical,idk,2022-01-13,No signal,1879
+95,SATLLA,Ariel University,2,PocketQube 2p,identical,idk,2022-01-13,No signal,1883
+96,Tevel,Herzliya Science Center,8,1U,identical,idk,2022-01-13,"Unknown, ?",1892
+97,Unicorn,Alba Orbital,10,PocketQube 2p,identical,constellation,2022-01-13,No signal,1901
+98,SWSU,Southwestern State University,8,3U,different,idk,2022-02-15,"Operational, ?",1914
+99,KSF2,Kleos Space,4,6U,identical,constellation,2022-04-01,"Operational, ?",1949
+100,SUCHAI,University of Chile,4,3U,different,idk,2022-04-01,"Operational, ?",1968
+101,CNCE,Missile Defense Agency,2,3U,identical,idk,2022-05-25,"Operational, ?",2007
+102,CPOD,Tyvak,2,3U,different,idk,2022-05-25,Operational,2010
+103,Tsiolkovsky,Southwestern State University,2,3U,different,idk,2022-06-03,"Operational, ?",2038
+104,TROPICS,MIT (Massachusetts Institute of Technology),6,3U,different,idk,2022-06-12,Launch failure,2040
+105,Gunsmoke,US Army Space and Missile Defense Command,4,6U,different,idk,2022-07-02,"Operational, ?",2050
+106,QUBIK,Libre Space,4,PocketQube 1p,different,idk,not launched,not launched,2080
+107,VariSat,VariSat,8,6U,different,idk,not launched,not launched,2088
+108,CIRCE,US Naval Research Laboratory,2,6U,identical,idk,not launched,not launched,2093
+109,KSF3,Kleos Space,4,6U,different,constellation,not launched,not launched,2110
+110,Pleiades,Stanford University,3,1U,different,idk,not launched,not launched,2120
+111,Zeus,Qosmosys,4,3U,different,idk,not launched,not launched,2126
+112,Starling1,NASA Ames Research Center,4,6U,different,idk,not launched,not launched,2134
+113,ANSER,National Institute of Aerospace Technology (INTA),4,3U,different,idk,not launched,not launched,2177
+114,CAS,CAMSAT (Chinese Amateur Satellite Group),2,3U,identical,idk,not launched,not launched,2195
+115,Clyde,AAC Clyde Space,2,3U,different,idk,not launched,not launched,2200
+116,ELO,Eutelsat,2,6U,different,constellation,not launched,not launched,2213
+117,KASI,Korea Astronomy and Space Science Institute (KASI),4,6U,identical,idk,not launched,not launched,2240
+118,Linus,Lockheed Martin,2,12U,different,constellation,not launched,not launched,2245
+119,Myriota,Myriota,2,3U,different,idk,not launched,not launched,2256
+120,PREFIRE,University of Wisconsin,2,3U,identical,idk,not launched,not launched,2273
+121,PTD,NASA Ames Research Center,2,6U,identical,idk,not launched,not launched,2278
+122,Shiver,Air Force Research Laboratory (AFRL),4,12U,different,idk,not launched,not launched,2287
+123,TRYAD,Auburn University,2,6U,identical,idk,not launched,not launched,2303
+124,Binar,Curtin University,8,1U,different,idk,not launched,not launched,2312
+125,BROS,Norway Defence Research Establishment,2,6U,different,idk,not launched,not launched,2315
+126,GEMS,Orbital Micro Systems,5,6U,different,constellation,not launched,not launched,2317
+127,EarthTV,Sen,4,16U,different,idk,not launched,not launched,2327
+128,WVSAT,NearSpace Launch,4,ThinSat 1x2T+3x1T,different,idk,not launched,not launched,2347
+129,Centauri,Fleet Space,9,6U,different,idk,not launched,not launched,2362
+130,Connecta,Plan-S,2,3U,identical,idk,not launched,not launched,2364
+131,CURIE,University of California Berkeley,2,3U,identical,idk,not launched,not launched,2369
+132,GNSSaS,The National Space Science and Technology Center (NSSTC),2,3U,identical,idk,not launched,not launched,2380
+133,ISISpace,ISISpace,2,6U,different,idk,not launched,not launched,2386
+134,Maya,STeP UP University of the Philippines,2,1U,identical,idk,not launched,not launched,2394
+135,Pony,Lockheed Martin,2,12U,different,formation,not launched,not launched,2406
+136,Space,?,10,3U,different,idk,not launched,not launched,2416
+137,Startical,Startical,3,6U,identical,idk,not launched,not launched,2430
+138,Ukko,ReOrbit,2,6U,identical,formation,not launched,not launched,2435
+139,Yareelo,Bauman Moscow State Technical University,2,3U,identical,idk,not launched,not launched,2442
+140,CLICK,Massachusetts Institute of Technology,2,3U,different,idk,not launched,not launched,2510
+141,Faraday,In-Space Missions,2,6U,different,idk,not launched,not launched,2519
+142,GROOVE,German Orbital Systems,2,3U,identical,idk,not launched,not launched,2520
+143,HERMES,INAF (National Institute for Astrophysics),6,3U,identical,idk,not launched,not launched,2521
+144,SunRISE,NASA JPL,6,6U,different,idk,not launched,not launched,2523
+145,Amber,Horizon Technologies,2,6U,different,constellation,not launched,not launched,2532
+146,Bluefield,Bluefield,2,16U,different,constellation,not launched,not launched,2541
+147,CLE,ISISpace,3,12U,identical,idk,not launched,not launched,2552
+148,DODONA,University of Southern California,3,1.5U,different,idk,not launched,not launched,2569
+149,Helios,Helios Wire,27,6U,different,constellation,not launched,not launched,2610
+150,HyperCube,Harris Corporation,11,6U,different,idk,not launched,not launched,2645
+151,IOD,Satellite Applications Catapult,2,3U,identical,idk,not launched,not launched,2660
+152,NorthStar,NorthStar,3,12U,identical,constellation,not launched,not launched,2699
+153,REC,SatRevolution,8,6U,identical,idk,not launched,not launched,2718
+154,SWARM,Olin College,3,3U,identical,constellation,not launched,not launched,2748
+155,TOM,Zentrum für Telematik,3,1U,different,idk,not launched,not launched,2754
+156,VISORS,University of Illinois Urbana-Champaign,2,6U,different,idk,not launched,not launched,2765
+157,xSPANCION,AAC Clyde Space,10,6U,different,idk,not launched,not launched,2769
+158,CHESS,Swiss Federal Institute of Technology Lausanne,4,3U,different,idk,not launched,not launched,2778
+159,EZIE,John Hopkins University Applied Physics Laboratory,3,6U,identical,idk,not launched,not launched,2784
+160,PISAT,Poland’s Armed Forces,3,6U,identical,constellation,not launched,not launched,2800
+161,RACE,ESA,2,6U,identical,idk,not launched,not launched,2805
+162,SCOUT,GomSpace,3,12U,identical,idk,not launched,not launched,2807
+163,TANGO,TNO (Netherlands Organisation for Applied Scientific Research),2,12U,identical,idk,not launched,not launched,2814
+164,CloudCT,Technion - Israel Institute of Technology,10,3U,identical,idk,not launched,not launched,2837
+165,Dock,Stellenbosch University,2,1U,identical,idk,not launched,not launched,2852
+166,DRACO,ISAE-Supaero University of Toulouse,2,6U,identical,idk,not launched,not launched,2854
+167,SATURN,OHB Italia,3,16U,identical,idk,not launched,not launched,2867
+168,SEIRIOS,University of Tokyo,2,6U,identical,idk,not launched,not launched,2871
+169,SULIS,Northumbria University,6,12U,identical,formation,not launched,not launched,2875
+170,AISTECH6U,Aistech,4,6U,identical,constellation,x_cancelled,cancelled,2888
+171,BlueWalker,AST & Science,2,6U,identical,idk,x_cancelled,cancelled,2915
+172,Buccaneer,University of New South Wales at the Australian Defence Force Academy (UNSW Canberra),6,3U,identical,formation,x_cancelled,cancelled,2918
+173,CADRE,Swiss Federal Institute of Technology in Lausanne,2,8U,identical,idk,x_cancelled,cancelled,2925
+174,Ceres,Planetary Resources,10,12U,different,constellation,x_cancelled,cancelled,2933
+175,CONASAT,National Institute for Space Research,2,8U,identical,idk,x_cancelled,cancelled,2949
+176,DANU,Aistech,10,2U,different,constellation,x_cancelled,cancelled,2968
+177,DELFFI,Delft University of Technology,2,3U,identical,idk,x_cancelled,cancelled,2978
+178,FACE,ESA,2,3U,identical,idk,x_cancelled,cancelled,3002
+179,FALCON,University at Buffalo (UB),2,6U,identical,formation,x_cancelled,cancelled,3004
+180,GIOT,NanoAvionics,3,6U,identical,constellation,x_cancelled,cancelled,3011
+181,Hera,Hera Systems,8,12U,identical,constellation,x_cancelled,cancelled,3023
+182,INSPIRE,NASA Jet Propulsion Laboratory,2,3U,identical,idk,x_cancelled,cancelled,3044
+183,OCEAN,SRT Marine,6,3U,different,constellation,x_cancelled,cancelled,3109
+184,Outernet,Outernet,4,1U,different,formation,x_cancelled,cancelled,3120
+185,PEARLS,Sky and Space Global,200,8U (4Ux2U),different,idk,x_cancelled,cancelled,3130
+186,PQ,Micro-Space Inc,4,0.12 kg,identical,idk,x_cancelled,cancelled,3348
+187,QuARCS,"University of California, Davis",2,1U,identical,idk,x_cancelled,cancelled,3357
+188,Rascal,Saint Louis University,2,3U,identical,idk,x_cancelled,cancelled,3363
+189,RoBiSat,Romanian Space Agency Institute of Space Science,2,2U,identical,idk,x_cancelled,cancelled,3369
+190,Rupercorp,Rupercorp,3,6U,identical,constellation,x_cancelled,cancelled,3375
+191,RyeF3Ex,Ryerson University,2,PocketQube,identical,idk,x_cancelled,cancelled,3379
+192,SCION,University of Michigan,2,1U,identical,idk,x_cancelled,cancelled,3386
+193,SpaceTime,SpaceTime Enterprises,2,3U,identical,idk,x_cancelled,cancelled,3405
+194,Starling,Aerial & Maritime,8,3U,different,idk,x_cancelled,cancelled,3409
+195,STRaND,SSTL,2,3U,different,idk,x_cancelled,cancelled,3417
+196,TetherSat,Naval Postgraduate School (NPS),2,1.5U,identical,idk,x_cancelled,cancelled,3431
+197,Tomsk,Tomsk Polytechnic University,2,3U,different,idk,x_cancelled,cancelled,3435
+198,TY1,Hunan Amateur Radio Society,2,6U,identical,idk,x_cancelled,cancelled,3445
